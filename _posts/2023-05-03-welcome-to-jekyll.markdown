@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Welcome to Jekyll!"
+title: "welcome to Psychic Pancakes!"
 date: 2023-05-03 10:50:34 +0100
 categories: jekyll update
-image: /img/home.jpg
-author: Example Author
-intro: This is the introduction text for this post. It appears large and bold at the top of the post
-intro_image: /img/home.jpg
+image: /img/homepancake.jpg
+author: beyza karaca
+intro: Welcome to Psychic Pancakes, where intuition meets deliciousness. 
+intro_image: /img/homepancake.jpg
 intro_image_ratio: is-16by9
 ---
 
