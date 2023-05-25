@@ -1,10 +1,10 @@
 ---
 layout: author
 title: All about Example Author
-name: Example Author
-position: Developer
-description: The short description of the author
-avatar: /img/avatar.png
+name: Rebecca
+position: Senior Service Designer
+description: Loves Pancakes
+avatar: /img/avatar.jpeg
 website: https://www.my-website.com
 facebook: https://www.facebook.com/
 twitter: https://www.twitter.com/
@@ -16,4 +16,4 @@ medium: https://www.medium.com/
 stack_overflow: https://stackoverflow.com/
 ---
 
-This is some information about an author.
+Hiya!
