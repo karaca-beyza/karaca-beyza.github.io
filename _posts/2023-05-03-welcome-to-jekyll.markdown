@@ -3,10 +3,10 @@ layout: post
 title: "welcome to Psychic Pancakes!"
 date: 2023-05-03 10:50:34 +0100
 categories: jekyll update
-image: /img/homepancake.jpg
+image: /img/mystic.jpeg
 author: beyza karaca
 intro: Welcome to Psychic Pancakes, where intuition meets deliciousness. 
-intro_image: /img/homepancake.jpg
+intro_image: /img/mystic.jpeg
 intro_image_ratio: is-16by9
 ---
 
